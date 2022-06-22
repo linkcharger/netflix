@@ -1,0 +1,210 @@
+Abilene-Sweetwater,TX,662
+Albany,GA,525
+Albany-Schenectady-Troy,NY,532
+Albuquerque-Santa Fe,NM,790
+Alexandria,LA,644
+Alpena,MI,583
+Amarillo,TX,634
+Anchorage,AK,743
+Atlanta,GA,524
+Augusta,GA,520
+Austin,TX,635
+Bakersfield,CA,800
+Baltimore,MD,512
+Bangor,ME,537
+Baton Rouge,LA,716
+Beaumont-Port Arthur,TX,692
+Bend,OR,821
+"Billi,gs, MT"
+Biloxi-Gulfport,MS,746
+Binghamton,NY,502
+Birmingham,AL,630
+Bluefield-Beckley-Oak Hill,WV,559
+Boise,ID,757
+Boston MA-Manchester,NH,506
+Bowling Green,KY,736
+Buffalo,NY,514
+Burlington VT-Plattsburgh,NY,523
+Butte-Bozeman,MT,754
+Casper-Riverton,WY,767
+Cedar Rapids-Waterloo-Iowa City & Dubuque,IA,637
+Champaign & Springfield-Decatur,IL,648
+Charleston,SC,519
+Charleston-Huntington,WV,564
+Charlotte,NC,517
+Charlottesville,VA,584
+Chattanooga,TN,575
+Cheyenne WY-Scottsbluff,NE,759
+Chicago,IL,602
+Chico-Redding,CA,868
+Cincinnati,OH,515
+Clarksburg-Weston,WV,598
+Cleveland-Akron (Canton),OH,510
+Colorado Springs-Pueblo,CO,752
+Columbia,SC,546
+Columbia-Jefferson City,MO,604
+Columbus,GA,522
+Columbus,OH,535
+Columbus-Tupelo-West Point,MS,673
+Corpus Christi,TX,600
+Dallas-Ft. Worth,TX,623
+Davenport IA-Rock Island-Moline,IL,682
+Dayton,OH,542
+Denver,CO,751
+Des Moines-Ames,IA,679
+Detroit,MI,505
+Dothan,AL,606
+Duluth MN-Superior,WI,676
+El Paso,TX,765
+Elmira,NY,565
+Erie,PA,516
+Eugene,OR,801
+Eureka,CA,802
+Evansville,IN,649
+Fairbanks,AK,745
+Fargo-Valley City,ND,724
+Flint-Saginaw-Bay City,MI,513
+Florence-Myrtle Beach,SC,570
+Fresno-Visalia,CA,866
+Ft. Myers-Naples,FL,571
+Ft. Smith-Fayetteville-Springdale-Rogers,AR,670
+Ft. Wayne,IN,509
+Gainesville,FL,592
+Glendive,MT,798
+Grand Junction-Montrose,CO,773
+Grand Rapids-Kalamazoo-Battle Creek,MI,563
+Great Falls,MT,755
+Green Bay-Appleton,WI,658
+Greensboro-High Point-Winston Salem,NC,518
+Greenville-New Bern-Washington,NC,545
+Greenville-Spartanburg SC-Asheville NC-Anderson,SC,567
+Greenwood-Greenville,MS,647
+Harlingen-Weslaco-Brownsville-McAllen,TX,636
+Harrisburg-Lancaster-Lebanon-York,PA,566
+Harrisonburg,VA,569
+Hartford & New Haven,CT,533
+Hattiesburg-Laurel,MS,710
+Helena,MT,766
+Honolulu,HI,744
+Houston,TX,618
+Huntsville-Decatur (Florence),AL,691
+Idaho Falls-Pocatello,ID,758
+Indianapolis,IN,527
+Jackson,MS,718
+Jackson,TN,639
+Jacksonville,FL,561
+Johnstown-Altoona,PA,574
+Jonesboro,AR,734
+Joplin MO-Pittsburg,KS,603
+Juneau,AK,747
+Kansas City,MO,616
+Knoxville,TN,557
+La Crosse-Eau Claire,WI,702
+Lafayette,IN,582
+Lafayette,LA,642
+Lake Charles,LA,643
+Lansing,MI,551
+Laredo,TX,749
+Las Vegas,NV,839
+Lexington,KY,541
+Lima,OH,558
+Lincoln & Hastings-Kearney,NE,722
+Little Rock-Pine Bluff,AR,693
+Los Angeles,CA,803
+Louisville,KY,529
+Lubbock,TX,651
+Macon,GA,503
+Madison,WI,669
+Mankato,MN,737
+Marquette,MI,553
+Medford-Klamath Falls,OR,813
+Memphis,TN,640
+Meridian,MS,711
+Miami-Ft. Lauderdale,FL,528
+Milwaukee,WI,617
+Minneapolis-St. Paul,MN,613
+Minot-Bismarck-Dickinson(Williston),ND,687
+Missoula,MT,762
+Mobile AL-Pensacola (Ft. Walton Beach),FL,686
+Monroe LA-El Dorado,AR,628
+Monterey-Salinas,CA,828
+Montgomery (Selma),AL,698
+Nashville,TN,659
+New Orleans,LA,622
+New York,NY,501
+Norfolk-Portsmouth-Newport News,VA,544
+North Platte,NE,740
+Odessa-Midland,TX,633
+Oklahoma City,OK,650
+Omaha,NE,652
+Orlando-Daytona Beach-Melbourne,FL,534
+Ottumwa IA-Kirksville,MO,631
+Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon,IL,632
+Palm Springs,CA,804
+Panama City,FL,656
+Parkersburg,WV,597
+Peoria-Bloomington,IL,675
+Philadelphia,PA,504
+Phoenix,AZ,753
+Pittsburgh,PA,508
+Portland,OR,820
+Portland-Auburn,ME,500
+Presque Isle,ME,552
+Providence RI-New Bedford,MA,521
+Quincy IL-Hannibal MO-Keokuk,IA,717
+Raleigh-Durham (Fayetteville),NC,560
+Rapid City,SD,764
+Reno,NV,811
+Richmond-Petersburg,VA,556
+Roanoke-Lynchburg,VA,573
+Rochester MN-Mason City IA-Austin,MN,611
+Rochester,NY,538
+Rockford,IL,610
+Sacramento-Stockton-Modesto,CA,862
+Salisbury,MD,576
+Salt Lake City,UT,770
+San Angelo,TX,661
+San Antonio,TX,641
+San Diego,CA,825
+San Francisco-Oakland-San Jose,CA,807
+Santa Barbara-Santa Maria-San Luis Obispo,CA,855
+Savannah,GA,507
+Seattle-Tacoma,WA,819
+Sherman TX-Ada,OK,657
+Shreveport,LA,612
+Sioux City,IA,624
+Sioux Falls(Mitchell),SD,725
+South Bend-Elkhart,IN,588
+Spokane,WA,881
+Springfield,MO,619
+Springfield-Holyoke,MA,543
+St. Joseph,MO,638
+St. Louis,MO,609
+Syracuse,NY,555
+Tallahassee FL-Thomasville,GA,530
+Tampa-St. Petersburg (Sarasota),FL,539
+Terre Haute,IN,581
+Toledo,OH,547
+Topeka,KS,605
+Traverse City-Cadillac,MI,540
+Tri-Cities TN,VA,531
+Tucson (Sierra Vista),AZ,789
+Tulsa,OK,671
+Twin Falls,ID,760
+Tyler-Longview(Lufkin & Nacogdoches),TX,709
+Utica,NY,526
+Victoria,TX,626
+Waco-Temple-Bryan,TX,625
+Washington DC (Hagerstown ,D),511
+Watertown,NY,549
+Wausau-Rhinelander,WI,705
+West Palm Beach-Ft. Pierce,FL,548
+Wheeling WV-Steubenville,OH,554
+Wichita Falls TX & Lawton,OK,627
+Wichita-Hutchinson,KS,678
+Wilkes Barre-Scranton,PA,577
+Wilmington,NC,550
+Yakima-Pasco-Richland-Kennewick,WA,810
+Youngstown,OH,536
+Yuma AZ-El Centro,CA,771
+Zanesville,OH,596
