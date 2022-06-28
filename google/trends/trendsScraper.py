@@ -25,7 +25,7 @@ def handleException(e):
 		print('Error in the way the mID is written: correct by hand')
 		print(cleanIDs)
 
-		resultDF.to_csv('google_trend_data.csv', index=False)
+		resultDF.to_csv('data/google_trend_data.csv', index=False)
 
 
     # retry if the following is true
@@ -80,15 +80,15 @@ def retrieveData(dataRetriever:TrendReq, cleanIDs:list, week, day_delta, geo:str
 
 
 ####################### shows #######################
-showsToScrapeDF = pd.read_excel('shows_to_scrape.xlsx', index_col=0)
+showsToScrapeDF = pd.read_excel('shows_to_scrape.xlsx') #, index_col=0)
 
 
 
 ####################### previous results #######################
-if os.path.exists('google_trend_data.csv'):
+if os.path.exists('data/google_trend_data.csv'):
 	# if there's prior data, remove the series/seasons we do not need to scrape anymore
 	print('data detected: the code will complete the database rather than starting from scratch')
-	resultDF = pd.read_csv('google_trend_data.csv')
+	resultDF = pd.read_csv('data/google_trend_data.csv')
 
 	# remove the series that are already taken care of
 	to_remove = resultDF[['TvSeries', 'Season']].drop_duplicates().astype({'Season': 'string'})
@@ -101,7 +101,7 @@ else:
 
 
 # create indexes we will use for the loop
-showsToScrapeDF['Release'] = pd.to_datetime(showsToScrapeDF.Release)
+showsToScrapeDF['Release'] = pd.to_datetime(showsToScrapeDF.Release, format='%d/%m/%Y')
 mIDs = showsToScrapeDF['mID'].unique()
 showNames = showsToScrapeDF['TvSeries'].unique()
 
@@ -192,9 +192,9 @@ for mID, showName in tqdm(list(zip(mIDs, showNames))):
 			oneWeek.columns = full_name_cols
 			try:
 				tempResultsDF = tempResultsDF.merge(oneWeek, on='geoName')
-			except KeyError:
+			except:
 				tempResultsDF = oneWeek
-			break
+			
 
 		# join to overall dataset
 		tempResultsDF['TvSeries'] = showName
@@ -207,10 +207,10 @@ for mID, showName in tqdm(list(zip(mIDs, showNames))):
 		# append to main dataset
 		resultDF = pd.concat([resultDF, tempResultsDF])
 
-		break
+		
 
 # transform it to format and save
-resultDF.to_csv('google_trend_data.csv', index=False)
+resultDF.to_csv('data/google_trend_data.csv', index=False)
 
 
 
